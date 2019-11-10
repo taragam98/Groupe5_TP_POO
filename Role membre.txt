@@ -1,0 +1,15 @@
+
+# python
+
+ No  |      Noms et Prenoms      | Matricule |                 Role dans le projet            |
+-----------------------------------------------------------------------------------------------
+ 01  |  BAYANG NYOMO Vincent     | 17A681FS  |  Créer la classe chef d'Agence                 |                        
+ 02  |  BEKONO Anastasie Stevie  | 18A186FS  |  Créer la classe fille CompteCourant           |
+ 03  |  MAHAMAT OUSMAN  AMADOU   | 18B233FS  |  Créer la classe CompteEpargne et CompteGre    |
+ 04  |  MOHAMMADOU ABBO          | 18A074FS  |  Créer la classe Personne                      |
+ 05  |  NGEH Hermann Javeli      | 18A997FS  |  Créer la classe Banque                        |
+ 06  |  NGORAN Rossine           | 18A083FS  |  Créer la classe Controlleur                   |
+ 07  |  OUMAR ALI TORI           | 18A884FS  |  Créer la classe Gestionnaire                  |
+ 08  |  TARABAI GAMBARA          | 17A472FS  |  Créer la classe Guichetier                    |
+ 09  |  TAYONG MBANWI            | 18A089FS  |  Créer la classe Client                        |
+ 10  |  YOUSSOUF ASSAFO YOUSSOUF | 17A171FS  |  Créer la classe Compte                        |
