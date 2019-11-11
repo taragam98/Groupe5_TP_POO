@@ -1,3 +1,5 @@
+#MOHAMMADOU ABBO
+#18A074FS
 
 '''Declaration de la super class  du class Guichetier''' 
 class Personne:
