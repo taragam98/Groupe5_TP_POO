@@ -1,0 +1,30 @@
+class Client:
+   
+    def __init__(self,n,p,num,c):
+        self.nom = n
+        self.prenom = p
+        self.numero = num
+        self.capital = c
+        
+    def depot(self,mt):
+        self.capital += mt
+        self.infoSolde()
+    
+    def retrait(self,mt):
+        if(self.capital > mt):
+           self.capital -= mt
+           self.infoSolde()
+        else:
+            print("Solde insuffisant\n")
+        
+    def virement(self,client,mt):
+        client.capital += mt
+        self.capital -= mt
+        
+    def infoSolde(self):
+        print("Votre solde est de {0} FCFA".format(self.capital))
+        return self.capital
+    
+    def __str__(self):
+        return "Nom : {0}\nPrenom :{1}\nCapital : {2} FCFA".format(self.nom,self.prenom,self.capital)
+        # class client by TAYONG MBANWI TEGWI #
